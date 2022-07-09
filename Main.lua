@@ -24,7 +24,5 @@ if not table.find(Games, game.PlaceId) then
         }
     )
 else
-    loadstring(
-        game:HttpGet("https://raw.githubusercontent.com/destylol/masterhubv311/itachi/" .. game.PlaceId .. ".lua")
-    )()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/destylol/masterhubv311/itachi/" .. game.PlaceId .. ".lua"))()
 end

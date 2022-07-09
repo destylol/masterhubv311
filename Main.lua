@@ -21,8 +21,7 @@ if not table.find(Games, game.PlaceId) then
             Title = "Master Hub",
             Text = "Game Is Not Supported!",
             Duration = 5
-        }
-    )
+        })
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/destylol/masterhubv311/itachi/" .. game.PlaceId .. ".lua"))()
 end

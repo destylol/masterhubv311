@@ -1,3 +1,21 @@
+pcall(function()
+    if syn then
+        http_request = syn.request
+    elseif fluxus.request then 
+         http_request = fluxus.request
+    elseif KRNL_LOADED then
+        http_request = request
+    end
+end)
+
+
+if not http_request then
+    game:GetService("Players").LocalPlayer:Kick("what the fuck???")
+    wait(2)
+    while true do end
+end
+
+
 local Games = {
     1224212277,
     520749081,

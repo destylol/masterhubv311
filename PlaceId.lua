@@ -1,7 +1,7 @@
 local GameSupport = {
     [6284583030] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {[10321372166] = {Data = {Maintenance = false}}
     },
     [520749081] = {
         Data = {Maintenance = false},

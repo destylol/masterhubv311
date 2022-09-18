@@ -51,10 +51,6 @@ local GameSupport = {
         Data = {Maintenance = false},
         MultiPlaceId = nil
     },
-    [10321372166] = {
-        Data = {Maintenance = false},
-        MultiPlaceId = nil
-    },
 }
 
 return GameSupport

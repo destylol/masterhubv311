@@ -1,6 +1,6 @@
 local GameSupport = {
     [6284583030] = {
-        Data = {Maintenance = false},
+        Data = {Name = "Pet Simulator X", Maintenance = false},
         MultiPlaceId = {[10321372166] = {Data = {Maintenance = false}}}
     },
     [520749081] = {

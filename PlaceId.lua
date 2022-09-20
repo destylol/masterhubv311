@@ -5,27 +5,27 @@ local GameSupport = {
     },
     [520749081] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [537413528] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [9049840490] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [13822889] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [7560156054] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [8750997647] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [8884433153] = {
         Data = {Maintenance = false},
@@ -37,23 +37,23 @@ local GameSupport = {
     },
     [3587619225] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [9555732501] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [9551640993] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [6299805723] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [6152116144] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
 }
 

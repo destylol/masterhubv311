@@ -4,6 +4,7 @@ local GameSupport = {
     },
     [10321372166] = {
         Data = {Maintenance = false},
+        Link = "https://raw.githubusercontent.com/destylol/masterhubv311/itachi/6284583030.lua"
     },
     [520749081] = {
         Data = {Maintenance = false},

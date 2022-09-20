@@ -1,6 +1,6 @@
 local GameSupport = {
     [6152116144] = {
-        Data = {Maintenance = false},
+        Data = {Name = "Project Slayers", Maintenance = false},
     },
     [6284583030] = {
         Data = {Maintenance = false},

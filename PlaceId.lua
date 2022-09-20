@@ -29,11 +29,11 @@ local GameSupport = {
     },
     [8884433153] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [3823781113] = {
         Data = {Maintenance = false},
-        MultiPlaceId = nil
+        MultiPlaceId = {}
     },
     [3587619225] = {
         Data = {Maintenance = false},

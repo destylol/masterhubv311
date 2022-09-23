@@ -49,7 +49,7 @@ local GameSupport = {
         Data = {Maintenance = false},
     },
     [6938803436] = {
-        Data = Maintenance = false},
+        Data = {Name = "Anime Dimension", Maintenance = false},
     },
 }
 

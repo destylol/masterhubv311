@@ -54,6 +54,9 @@ local GameSupport = {
     [8884334497] = {
         Data = {Maintenance = false},
     },
+    [9264596435] = {
+        Data = {Maintenance = false},
+    },
 }
 
 return GameSupport

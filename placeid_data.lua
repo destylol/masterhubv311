@@ -60,6 +60,10 @@ local GameSupport = {
     [4616652839] = {
         Data = {Maintenance = false},
     },
+    [6986372023] = {
+        Data = {Maintenance = false},
+        Link = "https://raw.githubusercontent.com/destylol/masterhubv311/itachi/4616652839.lua"
+    },
 }
 
 return GameSupport

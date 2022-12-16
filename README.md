@@ -4,4 +4,4 @@ holy shit this read me was so outdated, anyways masterhub aka phantomhub is disc
 btw it only supports psx for now, more soon 
 its currently 16th of december 2022, so idk when i will update this again lmaooo
 
-discord.gg/softworks
+https://discord.gg/softworks

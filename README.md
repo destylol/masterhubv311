@@ -1,6 +1,7 @@
-# MasterHub V4
+# Catalyst Hub V2
 
-hello everyone, im pretty sure some of you are here to skid and some of you aren't, anyways the script isn't open source so gtfo, 
-u must execute the script like in the discord linked. So yea hope you have a great day if u are reading this (wtf is this bro)
+holy shit this read me was so outdated, anyways masterhub aka phantomhub is discontinued, its now catalyst hub v2
+btw it only supports psx for now, more soon 
+its currently 16th of december 2022, so idk when i will update this again lmaooo
 
-https://discord.gg/softworks
+discord.gg/softworks
